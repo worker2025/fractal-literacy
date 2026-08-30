@@ -2,6 +2,10 @@
 
 **Author:** Dariush Alipour
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22170462.svg)](https://doi.org/10.5281/zenodo.22170462)
+
+**DOI:** https://doi.org/10.5281/zenodo.22170462
+
 > A conceptual essay exploring fractal patterns as a shared language connecting nature, artificial intelligence, society, and philosophy.
 
 ---
