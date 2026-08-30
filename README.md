@@ -126,21 +126,15 @@ Full bibliographic information is available in the article PDFs.
 
 ## Citation
 
-If you use or discuss this work, please cite it as:
+If you use or discuss this work, please cite:
 
-> Alipour, D. (2026). *Fractal Literacy: Nature's Hidden Language*. GitHub repository.
+> Alipour, D. (2026). *Fractal Literacy: Nature's Hidden Language*
+> (Version 1.0.1). Zenodo.
+> https://doi.org/10.5281/zenodo.22170462
 
-A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
+### DOI
 
-Once a DOI is assigned through Zenodo, the DOI citation should be preferred.
-
----
-
-## DOI
-
-**DOI:** Coming soon
-
-The repository may be archived through **Zenodo** to obtain a persistent DOI and a citable research record.
+https://doi.org/10.5281/zenodo.22170462
 
 ---
 
