@@ -34,21 +34,10 @@ keywords:
 
 date-released: 2026
 
-license: "CC BY-NC-ND-4.0"
-
-repository-code: "https://github.com/worker2025/fractal-literacy"
-
-repository: "https://github.com/worker2025/fractal-literacy"
-
-url: "https://github.com/worker2025/fractal-literacy"
+license: "CC-BY-NC-ND-4.0"
 
 version: "1.0.0"
 
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Alipour"
-      given-names: "Dariush"
-  title: "Fractal Literacy: Nature's Hidden Language"
-  year: 2026
-  url: "https://github.com/worker2025/fractal-literacy"
+repository-code: "https://github.com/worker2025/fractal-literacy"
+
+url: "https://github.com/worker2025/fractal-literacy"
