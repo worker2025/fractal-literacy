@@ -2,9 +2,13 @@
 
 **Author:** Dariush Alipour
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22170462.svg)](https://doi.org/10.5281/zenodo.22170462)
+[![DOI](https://doi.org/10.5281/zenodo.22170462.svg)](https://doi.org/10.5281/zenodo.22170462)
+[![GitHub Release](https://img.shields.io/github/v/release/worker2025/fractal-literacy)](https://github.com/worker2025/fractal-literacy/releases)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-**DOI:** https://doi.org/10.5281/zenodo.22170462
+> **Fractal Literacy: Nature's Hidden Language**  
+> Dariush Alipour · 2026  
+> DOI: [10.5281/zenodo.22170462](https://doi.org/10.5281/zenodo.22170462)
 
 > A conceptual essay exploring fractal patterns as a shared language connecting nature, artificial intelligence, society, and philosophy.
 
