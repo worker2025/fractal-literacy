@@ -153,11 +153,21 @@ Full bibliographic information is available in the article PDFs.
 
 ## Citation
 
-If you use or discuss this work, please cite:
+If you use, discuss, or reference this work, please cite:
 
-> Alipour, D. (2026). *Fractal Literacy: Nature's Hidden Language*
-> (Version 1.0.1). Zenodo.
-> https://doi.org/10.5281/zenodo.22170462
+Alipour, D. (2026). *Fractal Literacy: Nature's Hidden Language*. 
+Zenodo. https://doi.org/10.5281/zenodo.22170462
+
+### BibTeX
+
+```bibtex
+@article{alipour2026fractal,
+  author  = {Alipour, Dariush},
+  title   = {Fractal Literacy: Nature's Hidden Language},
+  year    = {2026},
+  doi     = {10.5281/zenodo.22170462},
+  publisher = {Zenodo}
+}
 
 ## Publication
 
