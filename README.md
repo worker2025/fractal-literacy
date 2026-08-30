@@ -10,6 +10,29 @@
 
 ---
 
+## About
+
+**Fractal Literacy: Nature's Hidden Language** is an interdisciplinary
+conceptual essay exploring fractal patterns as a common language across
+nature, artificial intelligence, society, and philosophy.
+
+The essay introduces **fractal literacy** as the ability to observe,
+recognize, interpret, and apply self-similar and multi-scale patterns
+in complex phenomena.
+
+### Key Topics
+
+- Fractal geometry and the Mandelbrot set
+- Fractal patterns in nature
+- Artificial intelligence and neural network training
+- Hyperparameter-space fractal behavior
+- Human and primate social networks
+- Complexity and self-similarity
+- Philosophy of technology
+- Nature, technology, and society
+
+---
+
 ## Abstract
 
 Fractal geometry provides a powerful way to explore hidden order within complex phenomena in nature, technology, and society.
@@ -132,9 +155,30 @@ If you use or discuss this work, please cite:
 > (Version 1.0.1). Zenodo.
 > https://doi.org/10.5281/zenodo.22170462
 
-### DOI
+## Publication
 
+This work is permanently archived on Zenodo.
+
+**DOI:**  
 https://doi.org/10.5281/zenodo.22170462
+
+**Zenodo record:**  
+https://zenodo.org/records/22170462
+
+---
+
+## Research Connections
+
+This work connects ideas from:
+
+- Fractal geometry
+- Complex systems
+- Artificial intelligence
+- Neural network training
+- Social network structure
+- Cognitive and biological patterns
+- Philosophy of technology
+- Interdisciplinary studies of nature and society
 
 ---
 
