@@ -1,0 +1,15 @@
+fractal
+fractal-geometry
+fractal-literacy
+complexity
+complex-systems
+artificial-intelligence
+neural-networks
+nature
+philosophy-of-technology
+social-networks
+pattern-recognition
+self-similarity
+multi-scale
+mandelbrot
+iran

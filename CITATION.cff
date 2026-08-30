@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+
+message: "If you use or discuss this work, please cite it using the following metadata."
+
+title: "Fractal Literacy: Nature's Hidden Language"
+
+type: article
+
+authors:
+  - family-names: "Alipour"
+    given-names: "Dariush"
+
+abstract: >
+  This conceptual essay introduces fractal literacy as the ability
+  to observe, recognize, interpret, and apply self-similar and
+  multi-scale patterns in complex phenomena. It connects fractal
+  patterns across nature, artificial intelligence, society, and
+  philosophy, presenting fractal literacy as a conceptual bridge
+  between these domains rather than as a report of new empirical
+  findings.
+
+keywords:
+  - fractal geometry
+  - fractal literacy
+  - complexity
+  - complex systems
+  - artificial intelligence
+  - neural networks
+  - self-similarity
+  - multi-scale patterns
+  - social networks
+  - philosophy of technology
+  - Mandelbrot
+
+date-released: 2026
+
+license: "CC BY-NC-ND-4.0"
+
+repository-code: "https://github.com/worker2025/fractal-literacy"
+
+repository: "https://github.com/worker2025/fractal-literacy"
+
+url: "https://github.com/worker2025/fractal-literacy"
+
+version: "1.0.0"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Alipour"
+      given-names: "Dariush"
+  title: "Fractal Literacy: Nature's Hidden Language"
+  year: 2026
+  url: "https://github.com/worker2025/fractal-literacy"
