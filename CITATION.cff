@@ -1,10 +1,7 @@
 cff-version: 1.2.0
-
 message: "If you use or discuss this work, please cite it using the following metadata."
 
 title: "Fractal Literacy: Nature's Hidden Language"
-
-type: article
 
 authors:
   - family-names: "Alipour"
@@ -32,12 +29,17 @@ keywords:
   - philosophy of technology
   - Mandelbrot
 
-date-released: 2026
+date-released: 2026-08-30
 
-license: "CC-BY-NC-ND-4.0"
-
-version: "1.0.0"
+license: CC-BY-NC-ND-4.0
 
 repository-code: "https://github.com/worker2025/fractal-literacy"
 
-url: "https://github.com/worker2025/fractal-literacy"
+version: "1.0.0"
+
+preferred-citation:
+  authors:
+    - family-names: "Alipour"
+      given-names: "Dariush"
+  title: "Fractal Literacy: Nature's Hidden Language"
+  year: 2026
