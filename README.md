@@ -160,7 +160,7 @@ Zenodo. https://doi.org/10.5281/zenodo.22170462
 
 ### BibTeX
 
-```bibtex
+```text
 @article{alipour2026fractal,
   author  = {Alipour, Dariush},
   title   = {Fractal Literacy: Nature's Hidden Language},
@@ -168,6 +168,7 @@ Zenodo. https://doi.org/10.5281/zenodo.22170462
   doi     = {10.5281/zenodo.22170462},
   publisher = {Zenodo}
 }
+```
 
 ## Publication
 
